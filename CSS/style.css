@@ -69,3 +69,14 @@ body {
   margin-bottom: 110px;
   visibility: hidden;
 }
+.carousel {
+  width:1024px;
+  height:768px;
+}
+.containerGalery{
+  margin-top: 110px;
+  margin-bottom: 110px;
+  align-items: center;
+  width:1024px;
+  height:768px;
+}
